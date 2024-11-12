@@ -12,7 +12,7 @@ Save the task_manager.py file in your desired directory.
 Open a terminal and navigate to the directory containing task_manager.py.
 Run the application.
 
-unctionalities:
+Functionalities:
 
 Add Task: Add a new task to the list.
 View Tasks: Display all tasks with their completion status.
@@ -37,7 +37,7 @@ Author:
 Aswini Balija
 
 Acknowledgments:
-----------------
+
 Inspired by task management applications.
 Thanks to all contributors.
 

@@ -22,7 +22,8 @@ def view_tasks():
         print("No tasks available.")
     for task in tasks:
         status = "Completed" if task.completed else "Not Completed"
-        print(f"{task.id}. {task.title} [{status}]")
+        print("ID: {id}, Title: {title}, Status: {status}".format(
+            id=task.id, title=task.title, status=status))
 
 def delete_task(id):
     global tasks

@@ -29,7 +29,6 @@ Run the application.
 Follow the on-screen menu to add, view, delete, or mark tasks as complete.
 Save tasks before exiting to ensure your tasks are stored for the next session.
 Author:
-------
 Aswini Balija
 
 Acknowledgments:
